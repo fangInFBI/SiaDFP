@@ -19,10 +19,10 @@ Usage
 
 Model
 - loadData.py
-> The code to load the ticket dataset.
+> The code to load the disk dataset.
 
 - SiaDFPNet.py
-> The codes of the SiaDFP in this paper.
+> The codes of the models in this paper.
 
 Train&&Test
 - trainTest.py
