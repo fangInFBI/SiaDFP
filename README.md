@@ -1,7 +1,7 @@
 # SiaDFP
 This is the code for the "SiaDFP: A Disk Failure Prediction Framework Based on Siamese Neural Network in Large-Scale Data Center" and baselines.
 
-The baseline of traditional mechina learning methods are implement based on the https://github.com/SidiLu001/disk_failure_prediction 
+The baselines of traditional machine learning methods are based on the https://github.com/SidiLu001/disk_failure_prediction 
 
 Pre-request
 
@@ -13,7 +13,7 @@ Pre-request
 Usage
 
 - Clone the repo: https://github.com/fangInFBI/SiaDFP.git.
-- Download the dataset from [Dataset](https://www.dropbox.com/scl/fo/ehqrmzkx9ndz5gfmfommx/h?dl=0&rlkey=fasg953wzlq01gwk0gjnimekk) and put the data into the folder dataset/dataset1 or dataset/dataset2.
+- Download the dataset from [Dataset](https://www.dropbox.com/scl/fo/ehqrmzkx9ndz5gfmfommx/h?dl=0&rlkey=fasg953wzlq01gwk0gjnimekk) and put the data into the folder dataset/dataset1 and dataset/dataset2.
 - Refer to the codes of corresponding sections for specific purposes.
 
 
