@@ -12,8 +12,8 @@ Pre-request
 
 Usage
 
-- Clone the repo: https://github.com/fangInFBI/SiaDFP.git
-- Prepare your train/Val/test data and preprocess the data.
+- Clone the repo: https://github.com/fangInFBI/SiaDFP.git.
+- Download the dataset from [Dataset](https://www.dropbox.com/scl/fo/ehqrmzkx9ndz5gfmfommx/h?dl=0&rlkey=fasg953wzlq01gwk0gjnimekk) and put the data into fold dataset/dataset1 or dataset/dataset2.
 - Refer to the codes of corresponding sections for specific purposes.
 
 
@@ -22,7 +22,7 @@ Model
 > The code to load the ticket dataset.
 
 - SiaDFPNet.py
-> The codes of the models in this paper.
+> The codes of the SiaDFP in this paper.
 
 Train&&Test
 - trainTest.py
