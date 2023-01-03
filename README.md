@@ -13,7 +13,7 @@ Pre-request
 Usage
 
 - Clone the repo: https://github.com/fangInFBI/SiaDFP.git.
-- Download the dataset from [Dataset](https://www.dropbox.com/scl/fo/ehqrmzkx9ndz5gfmfommx/h?dl=0&rlkey=fasg953wzlq01gwk0gjnimekk) and put the data into fold dataset/dataset1 or dataset/dataset2.
+- Download the dataset from [Dataset](https://www.dropbox.com/scl/fo/ehqrmzkx9ndz5gfmfommx/h?dl=0&rlkey=fasg953wzlq01gwk0gjnimekk) and put the data into the folder dataset/dataset1 or dataset/dataset2.
 - Refer to the codes of corresponding sections for specific purposes.
 
 
